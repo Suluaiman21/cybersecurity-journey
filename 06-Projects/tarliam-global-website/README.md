@@ -1,51 +1,34 @@
-🌐 Tarliam Global Website
+# Tarliam Global — Business Website
 
-A real-world business website developed and deployed for Tarliam Global.
+**Tarliam Global** is a professional business website I designed and developed for a UAE-based sourcing and trading company.
 
-This project gave me practical experience working with website development, domain configuration, hosting, DNS, HTTPS/SSL, deployment, and basic web security considerations.
+The goal of the project was to create a clean, modern, and responsive online presence that clearly communicates the company’s services while making it easy for potential clients to get in touch.
 
-🎯 Project Overview
+### What I Worked On
 
-The goal of this project was to create a professional online presence for Tarliam Global and make the company's services and information accessible through a dedicated website.
+* Designed and developed the website from the ground up
+* Created a responsive layout for desktop, tablet, and mobile devices
+* Structured the website to clearly present the company's services and business information
+* Implemented a contact form for customer enquiries
+* Configured business email integration
+* Deployed the website using Netlify
+* Connected the website to Google Search Console for search visibility and indexing
+* Focused on clean structure, usability, performance, and a professional user experience
 
-The project involved more than simply creating web pages. I also worked with the infrastructure required to make the website publicly accessible, including domain configuration, hosting, DNS records, SSL/HTTPS, and search engine indexing.
+### Technologies & Services
 
-🚀 Project Goals
-Create a professional business website
-Deploy the website publicly
-Connect a custom domain
-Configure DNS records
-Enable HTTPS/SSL
-Make the website accessible across devices
-Configure business email services
-Submit the website to search engines
-Learn about the infrastructure behind a production website
-🛠️ Technologies & Services
-Technology / Service	Purpose
-HTML / CSS / JavaScript	Website development
-Netlify	Website hosting and deployment
-Custom .ae Domain	Public website address
-DNS	Domain and infrastructure configuration
-HTTPS / SSL	Secure communication
-Zoho Mail	Business email
-Google Search Console	Search indexing and monitoring
-🌐 Infrastructure
-Domain
+* HTML
+* CSS
+* JavaScript
+* Netlify
+* Formspree
+* Zoho Mail
+* Google Search Console
 
-The website uses a custom .ae domain.
+### Project Outcome
 
-Hosting
+The completed website provides Tarliam Global with a professional digital presence and a straightforward way for potential customers and business partners to learn about the company and make contact.
 
-The website is deployed using Netlify.
+This project also gave me practical experience in **web development, deployment, domain/email configuration, forms, and basic website security considerations** while working on a real business requirement.
 
-DNS
-
-DNS records were configured to connect the custom domain with the hosting infrastructure.
-
-HTTPS
-
-HTTPS/SSL was configured to encrypt communication between visitors and the website.
-
-Email
-
-Business email infrastructure was configured separately using Zoho Mail.
+**Website:** https://tarliamglobal.ae
