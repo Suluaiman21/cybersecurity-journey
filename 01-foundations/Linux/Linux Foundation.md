@@ -1,1 +1,25 @@
 
+# Linux Foundations
+
+This section documents my Linux fundamentals and hands-on practice as part of my cybersecurity foundation.
+
+### Topics Covered
+
+* Linux file system and directory structure
+* Navigating the terminal using commands such as `cd`, `ls`, `pwd`, and `find`
+* Creating, moving, copying, and deleting files and directories
+* File permissions and ownership
+* Users and groups
+* Processes and basic process management
+* Package management
+* Working with text files using commands such as `cat`, `grep`, `head`, and `tail`
+* Basic networking commands
+* Understanding services and system processes
+* Using Linux in a cybersecurity and penetration-testing environment
+* Basic Bash/terminal usage
+
+### Hands-on Practice
+
+I practiced Linux fundamentals through hands-on labs and cybersecurity environments, including working with Kali Linux and TryHackMe Linux Fundamentals.
+
+The goal is to build enough Linux knowledge to confidently work with security tools, investigate systems, understand permissions and processes, and operate effectively in a SOC or penetration-testing environment.
