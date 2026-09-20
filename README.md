@@ -95,7 +95,7 @@ I use legal training platforms and intentionally vulnerable environments to deve
 
 ### TryHackMe
 
-* Rooms completed: `0`
+* Rooms completed: `14`
 * Current focus: Beginner → Intermediate cybersecurity labs
 
 ### Hack The Box
@@ -139,7 +139,7 @@ Projects I build while learning cybersecurity will be documented here.
 | Certification / Course          | Provider          | Status      |
 | ------------------------------- | ----------------- | ----------- |
 | Nmap Security Scanning          | LinkedIn Learning | ✅ Completed |
-| More to come                    | —                 | 🔄          |
+| Intro to CIP                    | OPSWAT            | ✅ Completed  |
 
 ---
 
@@ -149,14 +149,14 @@ Projects I build while learning cybersecurity will be documented here.
 
 ### Current Focus
 
-* [ ] Networking fundamentals
-* [ ] Linux fundamentals
+* [✅] Networking fundamentals
+* [✅ ] Linux fundamentals
 * [ ] Windows fundamentals
-* [ ] Nmap
+* [✅] Nmap
 * [ ] Enumeration
 * [ ] Privilege escalation
 * [ ] Web security
-* [ ] SOC fundamentals
+* [✅ ] SOC fundamentals
 * [ ] CTF practice
 * [ ] Personal cybersecurity projects
 
