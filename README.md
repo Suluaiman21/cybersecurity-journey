@@ -171,9 +171,9 @@ Project details, configurations, testing evidence, and lessons learned will be a
 | --- | --- | --- |
 | Introduction to Critical Infrastructure Protection (CIP) | OPSWAT Academy | ✅ Completed |
 | Nmap Security Scanning | LinkedIn Learning | ✅ Completed |
-| Introduction to Cybersecurity | Cisco | Add completion status and certificate details |
-| Introduction to Splunk | Splunk | Add completion status and certificate details |
-| Security Monitoring and SIEM Fundamentals | Hack The Box | Learning progress |
+| Introduction to Cybersecurity | Cisco | ✅ Completed |
+| Introduction to Splunk | Splunk | ✅ Completed |
+| Security Monitoring and SIEM Fundamentals | Hack The Box | ✅ Completed |
 
 I'll update this section as I complete additional courses and earn certifications.
 
